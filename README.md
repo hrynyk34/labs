@@ -17,4 +17,13 @@ lab_2
 ***git chekcout main***
 
 ***git checkout new_branch***
-#### 4. ВНІС ЗМІНИ У ВЕБ-ВЕРСІЇ ТА ЗБЕРІГ
+
+#### 4. КОМАНДИ, ЯКІ Я ВИКОРИСТОВУВАВ ДЛЯ ЗЛИТТЯ ГІЛОК
+
+***git checkout new_branch***
+
+***git merge main***
+
+#### 5. КАРТИНКА
+
+![NISSAN SKYLINE R34](https://github.com/hrynyk34/labs/blob/main/Speedhunters_R34roller-3.jpg)
