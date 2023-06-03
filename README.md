@@ -17,4 +17,4 @@ lab_2
 ***git chekcout main***
 
 ***git checkout new_branch***
-
+#### 4. ВНІС ЗМІНИ У ВЕБ-ВЕРСІЇ ТА ЗБЕРІГ
