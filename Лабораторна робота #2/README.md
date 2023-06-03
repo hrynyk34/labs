@@ -26,5 +26,6 @@ lab_2
 
 #### 5. КАРТИНКА
 
-![NISSAN SKYLINE R34](https://www.example.com/image.jpg)
+![NISSAN SKYLINE R34](https://github.com/hrynyk34/labs/blob/main/Speedhunters_R34roller-3.jpg)
+
 
