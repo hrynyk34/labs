@@ -24,3 +24,7 @@ lab_2
 
 ***git merge main***
 
+#### 5. КАРТИНКА
+
+![NISSAN SKYLINE R34](https://www.example.com/image.jpg)
+
