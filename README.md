@@ -18,3 +18,9 @@ lab_2
 
 ***git checkout new_branch***
 
+#### 4. КОМАНДИ, ЯКІ Я ВИКОРИСТОВУВАВ ДЛЯ ЗЛИТТЯ ГІЛОК
+
+***git checkout new_branch***
+
+***git merge main***
+
