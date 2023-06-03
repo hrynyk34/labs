@@ -12,15 +12,15 @@ lab_2
 
 #### 3. КОМАНДИ, ЯКІ Я ВИКОРИСТОВУВАВ ДЛЯ СВТОРЕННЯ НОВОЇ ГІЛКИ ТА ДЛЯ ПЕРЕКЛЮЧАННЯ МІЖ НИМИ 
 
-***git checkout -b new_branch***
+***git checkout -b lab_2***
 
 ***git chekcout main***
 
-***git checkout new_branch***
+***git checkout lab_2***
 
 #### 4. КОМАНДИ, ЯКІ Я ВИКОРИСТОВУВАВ ДЛЯ ЗЛИТТЯ ГІЛОК
 
-***git checkout new_branch***
+***git checkout lab_2***
 
 ***git merge main***
 
